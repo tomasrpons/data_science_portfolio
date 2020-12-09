@@ -1,4 +1,4 @@
-## [Fetal Health Classification](https://github.com/tomasrpons/fetal_health/)
+## [Fetal Health Classification](https://tomasrpons.github.io/fetal_health/)
 This tool was developed with the goal of helping predict fetal health in order to prevent child and maternal mortality.
 
 ## [House Pricing](https://tomasrpons.github.io/house_pricing/)
